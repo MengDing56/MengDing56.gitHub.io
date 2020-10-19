@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 郑玉棒
+title: 丁猛
 comments: true
 permalink: /Chinese/
 
@@ -13,7 +13,7 @@ permalink: /Chinese/
  
 ### 简介
  
-| <br>**郑玉棒**, 电子科技大学数学科学学院2019级数学专业博士生, 导师为[黄廷祝教授](http://www.math.uestc.edu.cn/info/1081/2041.htm)。 本科就读于安徽财经大学统计与应用数学学院, 硕士就读于电子科技大学数学科学学院。目前研究方向包括高维图像处理、张量低秩建模和高性能算法设计。已发表或录用SCI论文8篇（其中第一作者4篇）, 会议论文2篇（其中第一作者1篇）。 <br> <br> **邮箱:** <zhengyubang@163.com> <br>  **个人简历:** [Yu-Bang Zheg.pdf](https://yubangzheng.github.io/images/CV-ybzheng.pdf) <br> **链接:** [Google Scholar](https://scholar.google.com/citations?hl=en&user=qj6IPAMAAAAJ)  &emsp; [Researchgate](https://www.researchgate.net/profile/Yu_Bang_Zheng)  &emsp; [GitHub](https://github.com/YuBangZheng/) <br><br>| &emsp;![image](https://yubangzheng.github.io/images/yubangzheng3.jpg)&emsp; |
+| <br>**丁猛**，2018级数学专业博士生， 数学科学学院，电子科技大学，导师为[黄廷祝教授](http://www.math.uestc.edu.cn/info/1081/2041.htm)。 本科、硕士就读于电子科技大学数学科学学院。目前研究方向包括高维图像处理、张量分析和算法设计。 <br> <br> **邮箱:** <dingmeng56@163.com> <br>  **链接:** [Google Scholar](https://scholar.google.com/citations?view_op=&user=Q5D6JL8AAAAJ)  &emsp; [Researchgate](https://www.researchgate.net/profile/Meng_Ding15)  &emsp; [GitHub](https://github.com/MengDing56) <br><br>| &emsp;![image](https://MengDing56.github.io/images/dingmeng.jpg)&emsp; |
 
 ### 消息
 
