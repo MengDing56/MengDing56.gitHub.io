@@ -17,7 +17,7 @@ permalink: /Chinese/
 
 ### 消息
 
-* 2020.06: 我们提交文章 ["Hyperspectral super-resolution via interpretable block-term tensor modeling"](https://MengDing56.gitHub.io/papers/20Arxiv_SCBTD_HSR.pdf). 在这篇文章中，我们提出了一种新的基于张量的超光谱超分辨率的方法。
+* 2020. 06: 我们提交文章 ["Hyperspectral super-resolution via interpretable block-term tensor modeling"](https://MengDing56.gitHub.io/papers/20Arxiv_SCBTD_HSR.pdf). 在这篇文章中，我们提出了一种新的基于张量的超光谱超分辨率的方法。
 
 * 2020. 02: 在提交的文章 ["Tensor train rank minimization with nonlocal self-similarity for tensor completion"](https://MengDing56.gitHub.io/papers/20Arxiv_Nonlocal_TT_TC.pdf)中，我们结合非局部自相似性先验与tensor train秩应用于低秩张量问题。
 
