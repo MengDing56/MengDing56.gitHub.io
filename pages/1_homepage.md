@@ -31,6 +31,10 @@ permalink: /homepage/
 
 #### Journal Articles (Submitted)
 
+* **Meng Ding**, Xiao Fu, Ting-Zhu Huang, Jun Wang, Xi-Le Zhao, "Hyperspectral Super-Resolution via Interpretable Block-Term Tensor Modeling", 2020. [[PDF]](https://MengDing56.gitHub.io/papers/20Arxiv_SCBTD_HSR.pdf)
+
+* **Meng Ding**, Ting-Zhu Huang, Xi-Le Zhao, Michael K. Ng, Tian-Hui Ma, "Tensor train rank minimization with nonlocal self-similarity for tensor completion", 2020. [[PDF]](https://MengDing56.gitHub.io/papers/20Arxiv_Nonlocal_TT_TC.pdf) 
+
 #### Journal Articles (Published)
 
 * **Meng Ding**, Ting-Zhu Huang, Tian-Hui Ma, Xi-Le Zhao, Jing-Hua Yang, "Cauchy noise removal using group-based low-rank prior", _Applied Mathematics and Computation_, vol. 372, pp. 124971, 2020. [[PDF]](https://MengDing56.gitHub.io/papers/20AMC_Nonlocal_Cauchy.pdf) [[Code]](https://MengDing56.gitHub.io/codes/GBLR.rar)
