@@ -17,7 +17,9 @@ permalink: /homepage/
 
 ### News
 
-* June 2020: Check out this submission "Hyperspectral super-resolution via interpretable block-term tensor modeling".
+* June 2020: Check out this submission "Hyperspectral super-resolution via interpretable block-term tensor modeling". Here we propose a new tensor-based hyperspectral super-resolution.
+
+* Feb. 2020: We submit "Tensor train rank minimization with nonlocal self-similarity for tensor completion". In this work, we propose a new nonlocal tensor train rank-based tensor completion method by exploring the nonlocal self-similarity prior of tensor data.
 
 * Jan. 2020: J-H. Yang, X-L. Zhao, T-H. Ma, **M. Ding**, T-Z. Huang "Tensor train rank minimization with hybrid smoothness regularization for visual data recovery" has been accepted by _**Applied Mathematical Modelling**_.
 
