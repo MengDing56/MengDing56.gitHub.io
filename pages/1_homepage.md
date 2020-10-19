@@ -29,7 +29,9 @@ permalink: /homepage/
 
 ### Publications
 
-#### Journal
+#### Journal Articles (Submitted)
+
+#### Journal Articles (Published)
 
 * **Yu-Bang Zheng**, Ting-Zhu Huang, Xi-Le Zhao, Yong Chen, Wei He, "Double-Factor-Regularized Low-Rank Tensor Factorization for Mixed Noise Removal in Hyperspectral Image", _IEEE Transactions on Geoscience and Remote Sensing_, **accepted**, doi: 10.1109/TGRS.2020.2987954, 2020. [[PDF]](https://yubangzheng.github.io/papers/TGRS-LRTFDFR.pdf) [[Code]](https://yubangzheng.github.io/codes/code_LRTFDFR.zip)
 
@@ -47,9 +49,9 @@ permalink: /homepage/
 
 * Xin Li, Ting-Zhu Huang, Xi-Le Zhao, Teng-Yu Ji, **Yu-Bang Zheng**, Liang-Jian Deng, "Adaptive Total Variation and Second-Order Total Variation-Based Model for Low-Rank Tensor Completion", _Numerical Algorithms_, **accepted**, doi: 10.1007/s11075-020-00876-y, 2020. 
 
-#### Conference
+#### Conference Papers
 
-* Tian Lu, Xi-Le Zhao, Yu-Bang Zheng, **Meng Ding**, Xiao-Tong Li, "Tensor Completion via Global Low-Tubal-Rankness and Nonlocal Self-Similarity", in _IEEE Global Conference on Signal and Information Processing (GlobalSIP)_, 2019, pp. 1-5. (**Oral**) [[PDF]](https://yubangzheng.github.io/papers/TianLu.pdf)
+* Tian Lu, Xi-Le Zhao, Yu-Bang Zheng, **Meng Ding**, Xiao-Tong Li, "Tensor Completion via Global Low-Tubal-Rankness and Nonlocal Self-Similarity", in _IEEE Global Conference on Signal and Information Processing (GlobalSIP)_, 2019, pp. 1-5. (**Oral**) [[PDF]](https://github.com/MengDing56/MengDing56.gitHub.io/tree/main/papers/TianLu.pdf)
  
 ---
 
