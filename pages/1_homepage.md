@@ -21,11 +21,11 @@ permalink: /homepage/
 
 * Feb. 2020: We submit ["Tensor train rank minimization with nonlocal self-similarity for tensor completion"](https://MengDing56.gitHub.io/papers/20Arxiv_Nonlocal_TT_TC.pdf). In this work, we propose a new nonlocal tensor train rank-based tensor completion method by exploring the nonlocal self-similarity prior of tensor data.
 
-* Jan. 2020: J-H. Yang, X-L. Zhao, T-H. Ma, **M. Ding**, T-Z. Huang "Tensor train rank minimization with hybrid smoothness regularization for visual data recovery" has been accepted by _**Applied Mathematical Modelling**_.
+* Jan. 2020: J-H. Yang, X-L. Zhao, T-H. Ma, **M. Ding**, T-Z. Huang ["Tensor train rank minimization with hybrid smoothness regularization for visual data recovery"](https://MengDing56.gitHub.io/papers/20AMM_JHYang_TT.pdf) has been accepted by _**Applied Mathematical Modelling**_.
 
-* Dec. 2019: **M. Ding**, T-Z. Huang, T-H. Ma, X-L. Zhao, J-H. Yang, "Cauchy noise removal using group-based low-rank prior" has been accepted by _**Applied Mathematics and Computation**_.
+* Dec. 2019: **M. Ding**, T-Z. Huang, T-H. Ma, X-L. Zhao, J-H. Yang, ["Cauchy noise removal using group-based low-rank prior"](https://MengDing56.gitHub.io/papers/20AMC_Nonlocal_Cauchy.pdf) has been accepted by _**Applied Mathematics and Computation**_.
 
-* Aug. 2019: **M. Ding**, T-Z. Huang, T-Y. Ji, X-L. Zhao, J-H. Yang, "Low-Rank Tensor Completion Using Matrix Factorization Based on Tensor Train Rank and Total Variation" has been accepted by _**Journal of Scientific Computing**_.
+* Aug. 2019: **M. Ding**, T-Z. Huang, T-Y. Ji, X-L. Zhao, J-H. Yang, ["Low-Rank Tensor Completion Using Matrix Factorization Based on Tensor Train Rank and Total Variation"](https://MengDing56.gitHub.io/papers/20JSC_MFTTTV_TC.pdf) has been accepted by _**Journal of Scientific Computing**_.
 
 ---
 
