@@ -17,13 +17,13 @@ permalink: /homepage/
 
 ### News
 
-* 2020.05.01: One paper "Tensor N-tubal Rank and Its Convex Relaxation for Low-Rank Tensor Recovery" has been accepted by _**Information Sciences**_.
+* June 2020: Check out this submission ‘‘Hyperspectral super-resolution via interpretable block-term tensor modeling’’.
 
-* 2020.04.10: One paper "Double-Factor-Regularized Low-Rank Tensor Factorization for Mixed Noise Removal in Hyperspectral Image" has been accepted by _**IEEE Transactions on Geoscience and Remote Sensing**_.
+* Jan. 2020: J-H. Yang, X-L. Zhao, T-H. Ma, **M. Ding**, T-Z. Huang "Tensor train rank minimization with hybrid smoothness regularization for visual data recovery" has been accepted by _**Applied Mathematical Modelling**_.
 
-* 2020.01.01: One paper "Adaptive Total Variation and Second-Order Total Variation-Based Model for Low-Rank Tensor Completion" has been accepted by _**Numerical Algorithms**_.
+* Dec. 2019: **M. Ding**, T-Z. Huang, T-H. Ma, X-L. Zhao, J-H. Yang, "Cauchy noise removal using group-based low-rank prior" has been accepted by _**Applied Mathematics and Computation**_.
 
-* 2019.09.07: One paper "Mixed Noise Removal in Hyperspectral Image via Low-Fibered-Rank Regularization" has been accepted by _**IEEE Transactions on Geoscience and Remote Sensing**_.
+* Aug. 2019: **M. Ding**, T-Z. Huang, T-Y. Ji, X-L. Zhao, J-H. Yang, "Low-Rank Tensor Completion Using Matrix Factorization Based on Tensor Train Rank and Total Variation" has been accepted by _**Journal of Scientific Computing**_.
 
 ---
 
