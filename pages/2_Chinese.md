@@ -17,15 +17,15 @@ permalink: /Chinese/
 
 ### 消息
 
-* 2020. 06: 我们提交文章 ["Hyperspectral super-resolution via interpretable block-term tensor modeling"](https://MengDing56.gitHub.io/papers/20Arxiv_SCBTD_HSR.pdf). 在这篇文章中，我们提出了一种新的基于张量的超光谱超分辨率的方法。
+* 2020.06: 我们提交文章 ["Hyperspectral super-resolution via interpretable block-term tensor modeling"](https://MengDing56.gitHub.io/papers/20Arxiv_SCBTD_HSR.pdf). 在这篇文章中，我们提出了一种新的基于张量的超光谱超分辨率的方法。
 
-* 2020. 02: 在提交的文章 ["Tensor train rank minimization with nonlocal self-similarity for tensor completion"](https://MengDing56.gitHub.io/papers/20Arxiv_Nonlocal_TT_TC.pdf)中，我们结合非局部自相似性先验与tensor train秩应用于低秩张量问题。
+* 2020.02: 在提交的文章 ["Tensor train rank minimization with nonlocal self-similarity for tensor completion"](https://MengDing56.gitHub.io/papers/20Arxiv_Nonlocal_TT_TC.pdf)中，我们结合非局部自相似性先验与tensor train秩应用于低秩张量问题。
 
-* 2020. 01: 文章 J-H. Yang, X-L. Zhao, T-H. Ma, **M. Ding**, T-Z. Huang ["Tensor train rank minimization with hybrid smoothness regularization for visual data recovery"](https://MengDing56.gitHub.io/papers/20AMM_JHYang_TT.pdf) 被期刊 _**Applied Mathematical Modelling**_ 接受.
+* 2020.01: 文章 J-H. Yang, X-L. Zhao, T-H. Ma, **M. Ding**, T-Z. Huang ["Tensor train rank minimization with hybrid smoothness regularization for visual data recovery"](https://MengDing56.gitHub.io/papers/20AMM_JHYang_TT.pdf) 被期刊 _**Applied Mathematical Modelling**_ 接受.
 
-* 2019. 12: 文章 **M. Ding**, T-Z. Huang, T-H. Ma, X-L. Zhao, J-H. Yang, ["Cauchy noise removal using group-based low-rank prior"](https://MengDing56.gitHub.io/papers/20AMC_Nonlocal_Cauchy.pdf) 被期刊 _**Applied Mathematics and Computation**_ 接受.
+* 2019.12: 文章 **M. Ding**, T-Z. Huang, T-H. Ma, X-L. Zhao, J-H. Yang, ["Cauchy noise removal using group-based low-rank prior"](https://MengDing56.gitHub.io/papers/20AMC_Nonlocal_Cauchy.pdf) 被期刊 _**Applied Mathematics and Computation**_ 接受.
 
-* 2019. 08: 文章 **M. Ding**, T-Z. Huang, T-Y. Ji, X-L. Zhao, J-H. Yang, ["Low-Rank Tensor Completion Using Matrix Factorization Based on Tensor Train Rank and Total Variation"](https://MengDing56.gitHub.io/papers/20JSC_MFTTTV_TC.pdf) 被期刊 _**Journal of Scientific Computing**_ 接受.
+* 2019.08: 文章 **M. Ding**, T-Z. Huang, T-Y. Ji, X-L. Zhao, J-H. Yang, ["Low-Rank Tensor Completion Using Matrix Factorization Based on Tensor Train Rank and Total Variation"](https://MengDing56.gitHub.io/papers/20JSC_MFTTTV_TC.pdf) 被期刊 _**Journal of Scientific Computing**_ 接受.
 
 ---
 
