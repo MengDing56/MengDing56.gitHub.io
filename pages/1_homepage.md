@@ -68,9 +68,8 @@ permalink: /homepage/
 ---
 
 ### Awards and Honors
-
-*  Special postgraduate scholarship of science, UESTC, 2019
-*  Pacemaker to Merit Student, AUFE, 2015 and 2016
+*  First-class academic scholarship, UESTC, 2019
+*  Special postgraduate scholarship of science, UESTC, 2018
 
 ---
 
