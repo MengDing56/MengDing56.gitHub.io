@@ -17,58 +17,60 @@ permalink: /Chinese/
 
 ### 消息
 
-* 2020.05.01: 文章 "Tensor N-tubal Rank and Its Convex Relaxation for Low-Rank Tensor Recovery" 被期刊 _**Information Sciences**_ 接收.
+* 2020. 06: 我们提交文章 ["Hyperspectral super-resolution via interpretable block-term tensor modeling"](https://MengDing56.gitHub.io/papers/20Arxiv_SCBTD_HSR.pdf). 在这篇文章中，我们提出了一种新的基于张量的超光谱超分辨率的方法。
 
-* 2020.04.10: 文章 "Double-Factor-Regularized Low-Rank Tensor Factorization for Mixed Noise Removal in Hyperspectral Image" 被期刊 _**IEEE Transactions on Geoscience and Remote Sensing**_ 接收.
+* 2020. 02: 在提交的文章 ["Tensor train rank minimization with nonlocal self-similarity for tensor completion"](https://MengDing56.gitHub.io/papers/20Arxiv_Nonlocal_TT_TC.pdf)中，我们结合非局部自相似性先验与tensor train秩应用于低秩张量问题。
 
-* 2020.01.01: 文章 "Adaptive Total Variation and Second-Order Total Variation-Based Model for Low-Rank Tensor Completion" 被期刊 _**Numerical Algorithms**_ 接收.
+* 2020. 01: 文章 J-H. Yang, X-L. Zhao, T-H. Ma, **M. Ding**, T-Z. Huang ["Tensor train rank minimization with hybrid smoothness regularization for visual data recovery"](https://MengDing56.gitHub.io/papers/20AMM_JHYang_TT.pdf) 被期刊 _**Applied Mathematical Modelling**_ 接受.
 
-* 2019.09.07: 文章 "Mixed Noise Removal in Hyperspectral Image via Low-Fibered-Rank Regularization" 被期刊 _**IEEE Transactions on Geoscience and Remote Sensing**_ 接收.
+* 2019. 12: 文章 **M. Ding**, T-Z. Huang, T-H. Ma, X-L. Zhao, J-H. Yang, ["Cauchy noise removal using group-based low-rank prior"](https://MengDing56.gitHub.io/papers/20AMC_Nonlocal_Cauchy.pdf) 被期刊 _**Applied Mathematics and Computation**_ 接受.
+
+* 2019. 08: 文章 **M. Ding**, T-Z. Huang, T-Y. Ji, X-L. Zhao, J-H. Yang, ["Low-Rank Tensor Completion Using Matrix Factorization Based on Tensor Train Rank and Total Variation"](https://MengDing56.gitHub.io/papers/20JSC_MFTTTV_TC.pdf) 被期刊 _**Journal of Scientific Computing**_ 接受.
 
 ---
 
 ### 学术论文
 
-#### 期刊
+#### 期刊 (提交)
 
-* **Yu-Bang Zheng**, Ting-Zhu Huang, Xi-Le Zhao, Yong Chen, Wei He, "Double-Factor-Regularized Low-Rank Tensor Factorization for Mixed Noise Removal in Hyperspectral Image", _IEEE Transactions on Geoscience and Remote Sensing_, **accepted**, doi: 10.1109/TGRS.2020.2987954, 2020. [[全文]](https://yubangzheng.github.io/papers/TGRS-LRTFDFR.pdf) [[代码]](https://yubangzheng.github.io/codes/code_LRTFDFR.zip)
+* **Meng Ding**, Xiao Fu, Ting-Zhu Huang, Jun Wang, Xi-Le Zhao, "Hyperspectral Super-Resolution via Interpretable Block-Term Tensor Modeling", 2020. [[全文]](https://MengDing56.gitHub.io/papers/20Arxiv_SCBTD_HSR.pdf)
 
-* **Yu-Bang Zheng**, Ting-Zhu Huang, Xi-Le Zhao, Tai-Xiang Jiang, Teng-Yu Ji, Tian-Hui Ma, "Tensor N-tubal Rank and Its Convex Relaxation for Low-Rank Tensor Recovery", _Information Sciences_, vol. 532, pp. 170-189, 2020. [[全文]](https://yubangzheng.github.io/papers/IS-N-tubal-rank.pdf) [[全文2]](https://yubangzheng.github.io/papers/IS-N-tubal-rank2.pdf) [[代码]](https://yubangzheng.github.io/codes/code_WSTNN.zip)
+* **Meng Ding**, Ting-Zhu Huang, Xi-Le Zhao, Michael K. Ng, Tian-Hui Ma, "Tensor train rank minimization with nonlocal self-similarity for tensor completion", 2020. [[全文]](https://MengDing56.gitHub.io/papers/20Arxiv_Nonlocal_TT_TC.pdf) 
 
-* **Yu-Bang Zheng**, Ting-Zhu Huang, Xi-Le Zhao, Tai-Xiang Jiang, Tian-Hui Ma, Teng-Yu Ji, "Mixed Noise Removal in Hyperspectral Image via Low-Fibered-Rank Regularization", _IEEE Transactions on Geoscience and Remote Sensing_, vol. 58, no. 1, pp. 734-749, 2020. [[全文]](https://yubangzheng.github.io/papers/TGRS-low-fibered-rank.pdf) [[代码]](https://yubangzheng.github.io/codes/code_TGRS_low-fibered-rank.zip)
+#### 期刊 (发表)
 
-* **Yu-Bang Zheng**, Ting-Zhu Huang, Teng-Yu Ji, Xi-Le Zhao, Tai-Xiang Jiang, Tian-Hui Ma, "Low-Rank Tensor Completion via Smooth Matrix Factorization", _Applied Mathematical Modelling_, vol. 70, pp. 677-695, 2019. [[全文]](https://yubangzheng.github.io/papers/AMM_SMFLRTC_zheng.pdf) [[代码]](https://yubangzheng.github.io/codes/code_SMF-LRTC.zip)
+* **Meng Ding**, Ting-Zhu Huang, Tian-Hui Ma, Xi-Le Zhao, Jing-Hua Yang, "Cauchy noise removal using group-based low-rank prior", _Applied Mathematics and Computation_, vol. 372, pp. 124971, 2020. [[全文]](https://MengDing56.gitHub.io/papers/20AMC_Nonlocal_Cauchy.pdf) [[代码]](https://MengDing56.gitHub.io/codes/GBLR.rar)
 
-* Xiao-Tong Li, Xi-Le Zhao, Tai-Xiang Jiang, **Yu-Bang Zheng**, Teng-Yu Ji, Ting-Zhu Huang, "Low-Rank Tensor Completion via Combined Non-local Self-Similarity and Low-Rank Regularization", _Neurocomputing_, vol. 367, pp. 1-12, 2019. [[全文]](https://yubangzheng.github.io/papers/Neurocomputing-NLSLR-xtl.pdf)
+* **Meng Ding**, Ting-Zhu Huang, Teng-Yu Ji, Xi-Le Zhao, Jing-Hua Yang, "Low-Rank Tensor Completion Using Matrix Factorization Based on Tensor Train Rank and Total Variation", _Journal of Scientific Computing_, vol. 81, pp. 941–964, 2020. [[全文]](https://MengDing56.gitHub.io/papers/20JSC_MFTTTV_TC.pdf) [[代码]](https://MengDing56.gitHub.io/codes/MF-TTTV.rar)
 
-* Jian-Li Wang, Ting-Zhu Huang, Xi-Le Zhao, Jie Huang, Tian-Hui Ma, **Yu-Bang Zheng**, "Reweighted Block Sparsity Regularization for Remote Sensing Images Destriping", _IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing_, vol. 12, no. 12, pp. 4951-4963, 2019. [[全文]](https://yubangzheng.github.io/papers/JSTARS-jlwang.pdf) [[代码]](https://yubangzheng.github.io/codes/code_RBSUTV.zip)
+* **Meng Ding**, Ting-Zhu Huang, Si Wang, Jin-Jin Mei, Xi-Le Zhao, "Total variation with overlapping group sparsity for deblurring images under Cauchy noise", _Applied Mathematics and Computation_, vol. 341, pp. 128–147, 2020. [[全文]](https://MengDing56.gitHub.io/papers/19AMC_OGSTV_Cauchy.pdf) [[代码debluring]](https://MengDing56.gitHub.io/codes/Cauchy_OGSTV_debluring.rar) [[代码denoising]](https://MengDing56.gitHub.io/codes/Cauchy_OGSTV_denoising.rar)
 
-* Xi-Le Zhao, Xin Nie, **Yu-Bang Zheng**, Teng-Yu Ji, Ting-Zhu Huang, "Low-Rank Tensor Completion via Tensor Nuclear Norm With Hybrid Smooth Regularization", _IEEE Access_, vol. 7, pp. 131888-131901, 2019. [[全文]](https://yubangzheng.github.io/papers/ieee_access_xlz.pdf)
+* Jing-Hua Yang, Xi-Le Zhao, Tian-Hui Ma, **Meng Ding**, Ting-Zhu Huang, "Tensor train rank minimization with hybrid smoothness regularization for visual data recovery", _Applied Mathematical Modelling_, vol. 81, pp. 711-726, 2020. [[全文]](https://MengDing56.gitHub.io/papers/20AMM_JHYang_TT.pdf)
 
-* Xin Li, Ting-Zhu Huang, Xi-Le Zhao, Teng-Yu Ji, **Yu-Bang Zheng**, Liang-Jian Deng, "Adaptive Total Variation and Second-Order Total Variation-Based Model for Low-Rank Tensor Completion", _Numerical Algorithms_, **accepted**, doi: 10.1007/s11075-020-00876-y, 2020. 
+* Jing-Hua Yang, Xi-Le Zhao, Tian-Hui Ma, Yong Chen, Ting-Zhu Huang, **Meng Ding**, "Remote sensing images destriping using unidirectional hybrid total variation and nonconvex low-rank regularization", _Journal of Computational and Applied Mathematics_, vol. 363, pp. 124-144, 2020. [[全文]](https://MengDing56.gitHub.io/papers/20JCAM_JHYang_RS.pdf)
 
 #### 会议
 
-* **Yu-Bang Zheng**, Ting-Zhu Huang, Xi-Le Zhao, Tai-Xiang Jiang, Jie Huang, "Hyperspectral Image Denoising via Convex Low-Fibered-Rank Regularization", in _IEEE International Geoscience and Remote Sensing Symposium (IGARSS)_, 2019, pp. 222-225. (**Oral**) [[全文]](https://yubangzheng.github.io/papers/IGARSS2019-low-fibered-rank.pdf) [[代码]](https://yubangzheng.github.io/codes/code_TGRS_low-fibered-rank.zip)
-
-* Tian Lu, Xi-Le Zhao, **Yu-Bang Zheng**, Meng Ding, Xiao-Tong Li, "Tensor Completion via Global Low-Tubal-Rankness and Nonlocal Self-Similarity", in _IEEE Global Conference on Signal and Information Processing (GlobalSIP)_, 2019, pp. 1-5. (**Oral**) [[全文]](https://yubangzheng.github.io/papers/TianLu.pdf)
+* Tian Lu, Xi-Le Zhao, Yu-Bang Zheng, **Meng Ding**, Xiao-Tong Li, "Tensor Completion via Global Low-Tubal-Rankness and Nonlocal Self-Similarity", in _IEEE Global Conference on Signal and Information Processing (GlobalSIP)_, 2019, pp. 1-5. (**Oral**) [[全文]](https://MengDing56.gitHub.io/papers/20GlobalSIP_TianLu.pdf)
  
 ---
 
 ### 教育背景
 
-* 09/2019-至今: 博士, 电子科技大学 数学专业 (导师: [黄廷祝教授](http://www.math.uestc.edu.cn/info/1081/2041.htm))
+* 09/2019-09/2020: 联培博士, 俄勒冈州立大学 信号处理 (导师: [傅晓教授](http://people.oregonstate.edu/~fuxia/) 和 [黄廷祝教授](http://www.math.uestc.edu.cn/info/1081/2041.htm))
 
-* 09/2017-06/2019: 硕士, 电子科技大学 数学专业 (导师: [黄廷祝教授](http://www.math.uestc.edu.cn/info/1081/2041.htm))
+* 09/2018-至今: 博士, 电子科技大学 数学专业 (导师: [黄廷祝教授](http://www.math.uestc.edu.cn/info/1081/2041.htm))
 
-* 09/2013-06/2017: 本科, 安徽财经大学 信息与计算科学专业
+* 09/2016-06/2018: 硕士, 电子科技大学 数学专业 (导师: [黄廷祝教授](http://www.math.uestc.edu.cn/info/1081/2041.htm))
+
+* 09/2012-06/2016: 本科, 电子科技大学 信息与计算科学专业
 
 ---
 
 ### 获奖情况
 
-*  理科特别奖学金  电子科技大学  2019
-*  三好学生标兵  安徽财经大学  2015, 2016
+*  一等学业奖学金  电子科技大学  2019
 
+*  理科特别奖学金  电子科技大学  2018
 ---
 
