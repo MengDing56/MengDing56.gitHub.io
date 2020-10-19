@@ -56,7 +56,7 @@ permalink: /homepage/
 ---
 
 ### Education 
-* 09/2019-09/2020: Oregon State University; Exchange visitor in Signal Processing (Supervisor: [Prof. Xiao Fu](http://people.oregonstate.edu/~fuxia/))
+* 09/2019-09/2020: Oregon State University; Exchange visitor in Signal Processing (Supervisor: [Prof. Xiao Fu](http://people.oregonstate.edu/~fuxia/) and [Prof. Ting-Zhu Huang](http://www.math.uestc.edu.cn/info/1081/2041.htm))
 
 * 09/2018-Current: University of Electronic Science and Technology of China (UESTC); Ph. D. student in Applied Mathematics (Supervisor: [Prof. Ting-Zhu Huang](http://www.math.uestc.edu.cn/info/1081/2041.htm))
 
