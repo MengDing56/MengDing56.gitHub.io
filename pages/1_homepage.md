@@ -51,7 +51,7 @@ permalink: /homepage/
 
 #### Conference Papers
 
-* Tian Lu, Xi-Le Zhao, Yu-Bang Zheng, **Meng Ding**, Xiao-Tong Li, "Tensor Completion via Global Low-Tubal-Rankness and Nonlocal Self-Similarity", in _IEEE Global Conference on Signal and Information Processing (GlobalSIP)_, 2019, pp. 1-5. (**Oral**) [[PDF]](https://github.com/MengDing56/MengDing56.gitHub.io/tree/main/papers/TianLu.pdf)
+* Tian Lu, Xi-Le Zhao, Yu-Bang Zheng, **Meng Ding**, Xiao-Tong Li, "Tensor Completion via Global Low-Tubal-Rankness and Nonlocal Self-Similarity", in _IEEE Global Conference on Signal and Information Processing (GlobalSIP)_, 2019, pp. 1-5. (**Oral**) [[PDF]](https://github.com/MengDing56/MengDing56.gitHub.io/papers/TianLu.pdf)
  
 ---
 
