@@ -38,7 +38,6 @@ permalink: /homepage/
 
 * **Meng Ding**, Xiao Fu, Ting-Zhu Huang, Jun Wang, Xi-Le Zhao, "Hyperspectral Super-Resolution via Interpretable Block-Term Tensor Modeling", 2020. [[PDF]](https://MengDing56.gitHub.io/papers/20Arxiv_SCBTD_HSR.pdf)
 
-* **Meng Ding**, Ting-Zhu Huang, Xi-Le Zhao, Michael K. Ng, Tian-Hui Ma, "Tensor train rank minimization with nonlocal self-similarity for tensor completion", 2020. [[PDF]](https://MengDing56.gitHub.io/papers/20Arxiv_Nonlocal_TT_TC.pdf) 
 
 #### Journal Articles (Published)
 
@@ -47,6 +46,8 @@ permalink: /homepage/
 * **Meng Ding**, Ting-Zhu Huang, Teng-Yu Ji, Xi-Le Zhao, Jing-Hua Yang, "Low-Rank Tensor Completion Using Matrix Factorization Based on Tensor Train Rank and Total Variation", _Journal of Scientific Computing_, vol. 81, pp. 941–964, 2020. [[PDF]](https://MengDing56.gitHub.io/papers/20JSC_MFTTTV_TC.pdf) [[Code]](https://MengDing56.gitHub.io/codes/MF-TTTV.rar)
 
 * **Meng Ding**, Ting-Zhu Huang, Si Wang, Jin-Jin Mei, Xi-Le Zhao, "Total variation with overlapping group sparsity for deblurring images under Cauchy noise", _Applied Mathematics and Computation_, vol. 341, pp. 128–147, 2020. [[PDF]](https://MengDing56.gitHub.io/papers/19AMC_OGSTV_Cauchy.pdf) [[Code_debluring]](https://MengDing56.gitHub.io/codes/Cauchy_OGSTV_debluring.rar) [[Code_denoising]](https://MengDing56.gitHub.io/codes/Cauchy_OGSTV_denoising.rar)
+
+* **Meng Ding**, Ting-Zhu Huang, Xi-Le Zhao, Michael K. Ng, Tian-Hui Ma, "Tensor train rank minimization with nonlocal self-similarity for tensor completion", _Inverse Problems and Imaging_ 2020. [[PDF]](https://MengDing56.gitHub.io/papers/20Arxiv_Nonlocal_TT_TC.pdf) 
 
 * Jing-Hua Yang, Xi-Le Zhao, Tian-Hui Ma, **Meng Ding**, Ting-Zhu Huang, "Tensor train rank minimization with hybrid smoothness regularization for visual data recovery", _Applied Mathematical Modelling_, vol. 81, pp. 711-726, 2020. [[PDF]](https://MengDing56.gitHub.io/papers/20AMM_JHYang_TT.pdf)
 
