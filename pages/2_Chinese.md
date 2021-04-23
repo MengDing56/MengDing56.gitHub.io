@@ -13,7 +13,7 @@ permalink: /Chinese/
  
 ### 简介
  
-| <br>**丁猛**，2018级数学专业博士生， 数学科学学院，电子科技大学，导师为[黄廷祝教授](http://www.math.uestc.edu.cn/info/1081/2041.htm)。 本科、硕士就读于电子科技大学数学科学学院。目前研究方向包括高维图像处理、张量分析和算法设计。 <br> <br> **邮箱:** <dingmeng56@163.com> <br>  **链接:** [Google Scholar](https://scholar.google.com.tw/citations?hl=zh-CN&view_op=list_works&gmla=AJsN-F7aCBR-GbzcsJXUqtZ36le4aCKRYE-MG2FgUHKGmflkpKYkt1Wip0p_V9niBK2K3Ax2nOE9sfcGNTNsyJkQq729mHG3_IW_WT-BRTqsnVC3HiMqdK4&user=BqNY1mUAAAAJ)  &emsp; [Researchgate](https://www.researchgate.net/profile/Meng_Ding15)  &emsp; [GitHub](https://github.com/MengDing56) <br><br>| &emsp;![image](https://MengDing56.github.io/images/dingmeng.jpg)&emsp; |
+| <br>**丁猛**，2018级数学专业博士生， 数学科学学院，电子科技大学，导师为[黄廷祝教授](http://www.math.uestc.edu.cn/info/1081/2041.htm)。 本科、硕士就读于电子科技大学数学科学学院。目前研究方向包括高维图像处理、张量分析和算法设计。 <br> <br> **邮箱:** <dingmeng56@163.com> <br>  **链接:** [Google Scholar](https://scholar.google.com.tw/citations?user=BqNY1mUAAAAJ&hl=zh-CN)  &emsp; [Researchgate](https://www.researchgate.net/profile/Meng_Ding15)  &emsp; [GitHub](https://github.com/MengDing56) <br><br>| &emsp;![image](https://MengDing56.github.io/images/dingmeng.jpg)&emsp; |
 
 ### 消息
 
