@@ -80,6 +80,8 @@ permalink: /homepage/
 ---
 
 ### Awards and Honors
+*  Outstanding student of USETC 成电杰出学生 (研究生)  (highest personal honor for graduate students in UESTC), 2021
+*  National Scholarship  (highest national wide scholarship for students in China), 2021
 *  First-class academic scholarship, UESTC, 2019
 *  Special postgraduate scholarship of science, UESTC, 2018
 
