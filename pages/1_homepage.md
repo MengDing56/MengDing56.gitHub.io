@@ -44,7 +44,7 @@ permalink: /homepage/
 
 #### Journal Articles (Submitted)
 
-* **Meng Ding**, Xiao Fu, Ting-Zhu Huang, Jun Wang, Xi-Le Zhao, "Hyperspectral Super-Resolution via Interpretable Block-Term Tensor Modeling", 2020. [[PDF]](https://MengDing56.gitHub.io/papers/20Arxiv_SCBTD_HSR.pdf)
+* **Meng Ding**, Xiao Fu, Xi-Le Zhao, "Fast and Structured Block-Term Tensor Decomposition For Hyperspectral Unmixing", 2022. [[PDF]](https://arxiv.org/pdf/2205.03798.pdf)
 
 
 #### Journal Articles (Published)
@@ -69,9 +69,9 @@ permalink: /homepage/
 ---
 
 ### Education 
-* 09/2019-09/2020: Oregon State University; Exchange visitor in Signal Processing (Supervisor: [Prof. Xiao Fu](http://people.oregonstate.edu/~fuxia/) and [Prof. Ting-Zhu Huang](http://www.math.uestc.edu.cn/info/1081/2041.htm))
+* 09/2018-12/2022: University of Electronic Science and Technology of China (UESTC); Ph. D. student in Applied Mathematics (Supervisor: [Prof. Ting-Zhu Huang](http://www.math.uestc.edu.cn/info/1081/2041.htm))
 
-* 09/2018-Current: University of Electronic Science and Technology of China (UESTC); Ph. D. student in Applied Mathematics (Supervisor: [Prof. Ting-Zhu Huang](http://www.math.uestc.edu.cn/info/1081/2041.htm))
+* 09/2019-09/2020: Oregon State University; Exchange visitor in Signal Processing (Supervisor: [Prof. Xiao Fu](http://people.oregonstate.edu/~fuxia/) and [Prof. Ting-Zhu Huang](http://www.math.uestc.edu.cn/info/1081/2041.htm))
 
 * 09/2016-06/2018: University of Electronic Science and Technology of China (UESTC); Master student in Applied Mathematics (Supervisor: [Prof. Ting-Zhu Huang](http://www.math.uestc.edu.cn/info/1081/2041.htm))
 
