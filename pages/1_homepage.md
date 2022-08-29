@@ -16,6 +16,10 @@ permalink: /homepage/
 | <br>**Meng Ding** is currently an assistant professor with the School of Mathematics, Southwest Jiaotong University. He obtained the Ph.D. degree (advised by [Prof. Ting-Zhu Huang](http://www.math.uestc.edu.cn/info/1081/2041.htm) and [Prof. Xi-Le Zhao](https://zhaoxile.github.io/)) with the [School of Mathematical Sciences](http://www.math.uestc.edu.cn/index.htm), [University of Electronic Science and Technology of China (UESTC)](https://www.uestc.edu.cn/), Chengdu, China. His research interest includes image processing, tensor analysis, and deep learning. <br> <br> **Email:** <dingmeng56@163.com>  &emsp; **Follow me:** [Google Scholar](https://scholar.google.com.tw/citations?user=BqNY1mUAAAAJ&hl=zh-CN)  &emsp; [Researchgate](https://www.researchgate.net/profile/Meng_Ding15)  &emsp; [GitHub](https://github.com/MengDing56) <br><br>| &emsp;![image](https://MengDing56.github.io/images/dingmeng.jpg)&emsp; |
 
 ### News
+* Aug. 2022: one paper has been accepted by _**ACM International Conference on Information and Knowledge Management (CIKM)**.
+
+* Jul. 2022: Check out this submission ["Fast and Structured Block-Term Tensor Decomposition For Hyperspectral Unmixing"](https://arxiv.org/pdf/2205.03798.pdf). Here we propose a new tensor decomposition-based algorithm for hyperspectral unmixing.
+
 * Dec. 2021: one paper "Tensor completion via nonconvex tensor ring rank minimization with guaranteed convergence" has been accepted by _**Signal Processing**_.
 
 * May 2021: one paper has been accepted by _**29th European Signal Processing Conference (EUSIPCO)**_, and two papers have been accepted by _**IEEE International Geoscience and Remote Sensing Symposium (IGARSS)**_.
