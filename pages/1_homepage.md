@@ -16,6 +16,8 @@ permalink: /homepage/
 | <br>**Meng Ding** is currently an assistant professor with the School of Mathematics, Southwest Jiaotong University. He obtained the Ph.D. degree (advised by [Prof. Ting-Zhu Huang](http://www.math.uestc.edu.cn/info/1081/2041.htm) and [Prof. Xi-Le Zhao](https://zhaoxile.github.io/)) with the [School of Mathematical Sciences](http://www.math.uestc.edu.cn/index.htm), [University of Electronic Science and Technology of China (UESTC)](https://www.uestc.edu.cn/), Chengdu, China. His research interest includes image processing, tensor analysis, and deep learning. <br> <br> **Email:** <dingmeng56@163.com>  &emsp; **Follow me:** [Google Scholar](https://scholar.google.com.tw/citations?user=BqNY1mUAAAAJ&hl=zh-CN)  &emsp; [Researchgate](https://www.researchgate.net/profile/Meng_Ding15)  &emsp; [GitHub](https://github.com/MengDing56) <br><br>| &emsp;![image](https://MengDing56.github.io/images/dingmeng.jpg)&emsp; |
 
 ### News
+* Dec. 2021: one paper "Tensor completion via nonconvex tensor ring rank minimization with guaranteed convergence" has been accepted by _**Signal Processing**_.
+
 * Dec. 2020: one paper "Hyperspectral Super-Resolution via Interpretable Block-Term Tensor Modeling" has been accepted by _**IEEE Journal of Selected Topics in Signal Processing**_.
 
 * Nov. 2020: Good news, our paper ["Tensor train rank minimization with nonlocal self-similarity for tensor completion"](https://MengDing56.gitHub.io/papers/20Arxiv_Nonlocal_TT_TC.pdf) has been accepted by _**Inverse Problems and Imaging**_.
