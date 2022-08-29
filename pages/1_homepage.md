@@ -18,6 +18,8 @@ permalink: /homepage/
 ### News
 * Dec. 2021: one paper "Tensor completion via nonconvex tensor ring rank minimization with guaranteed convergence" has been accepted by _**Signal Processing**_.
 
+* May 2021: one paper has been accepted by _**29th European Signal Processing Conference (EUSIPCO)**_, and two papers have been accepted by _**IEEE International Geoscience and Remote Sensing Symposium (IGARSS)**_.
+
 * Dec. 2020: one paper "Hyperspectral Super-Resolution via Interpretable Block-Term Tensor Modeling" has been accepted by _**IEEE Journal of Selected Topics in Signal Processing**_.
 
 * Nov. 2020: Good news, our paper ["Tensor train rank minimization with nonlocal self-similarity for tensor completion"](https://MengDing56.gitHub.io/papers/20Arxiv_Nonlocal_TT_TC.pdf) has been accepted by _**Inverse Problems and Imaging**_.
