@@ -63,6 +63,13 @@ permalink: /homepage/
 * Jing-Hua Yang, Xi-Le Zhao, Tian-Hui Ma, Yong Chen, Ting-Zhu Huang, **Meng Ding**, "Remote sensing images destriping using unidirectional hybrid total variation and nonconvex low-rank regularization", _Journal of Computational and Applied Mathematics_, vol. 363, pp. 124-144, 2020. [[PDF]](https://MengDing56.gitHub.io/papers/20JCAM_JHYang_RS.pdf)
 
 #### Conference Papers
+* Jing-Hua Yang, Chuan Chen, Hong-Ning Dai, **Meng Ding**, Le-le Fu, Zibin Zheng,  "Hierarchical representation for multi-view clustering: from intra-sample to intra-view to inter-view", in _ACM International Conference on Information and Knowledge Management (ICKM)_, 2022.
+
+* **Meng Ding**, Xiao Fu, Xi-Le Zhao,  "Constrained Block-Term Tensor Decomposition-Based Hyperspectral Unmixing via Alternating Gradient Projection", in _IEEE European Signal Processing Conference (EUSIPCO)_, 2021, pp. 1060-1064.
+
+* **Meng Ding**, Ting-Zhu Huang, Xi-Le Zhao, Jie Lin, Jing-Hua Yang,  "Factor-Regularized Nonnegative Tensor Decomposition for Blind Hyperspectral Unmixing", in _IEEE International Geoscience and Remote Sensing Symposium (IGRASS)_, 2021, pp. 3833-3836.
+ 
+* Jie Lin, Ting-Zhu Huang, Xi-Le Zhao, **Meng Ding**, Yong Chen, Tai-Xiang Jiang,  "A Blind Cloud/Shadow Removal Strategy for Multi-Temporal Remote Sensing Images", in _IEEE International Geoscience and Remote Sensing Symposium (IGRASS)_, 2021, pp. 4656-4659.
 
 * Tian Lu, Xi-Le Zhao, Yu-Bang Zheng, **Meng Ding**, Xiao-Tong Li, "Tensor Completion via Global Low-Tubal-Rankness and Nonlocal Self-Similarity", in _IEEE Global Conference on Signal and Information Processing (GlobalSIP)_, 2019, pp. 1-5. (**Oral**) [[PDF]](https://MengDing56.gitHub.io/papers/20GlobalSIP_TianLu.pdf)
  
