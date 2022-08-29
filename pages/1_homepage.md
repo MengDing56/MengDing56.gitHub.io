@@ -48,6 +48,7 @@ permalink: /homepage/
 
 
 #### Journal Articles (Published)
+* **Meng Ding**, Ting-Zhu Huang, Xi-Le Zhao, Tian-Hui Ma, "Tensor completion via nonconvex tensor ring rank minimization with guaranteed convergence", _Signal Processing_ 2022.  
 
 * **Meng Ding**, Ting-Zhu Huang, Xi-Le Zhao, Michael K. Ng, Tian-Hui Ma, "Tensor train rank minimization with nonlocal self-similarity for tensor completion", _Inverse Problems and Imaging_ 2020. [[PDF]](https://MengDing56.gitHub.io/papers/20Arxiv_Nonlocal_TT_TC.pdf) 
 
