@@ -50,6 +50,8 @@ permalink: /homepage/
 #### Journal Articles (Published)
 * **Meng Ding**, Ting-Zhu Huang, Xi-Le Zhao, Tian-Hui Ma, "Tensor completion via nonconvex tensor ring rank minimization with guaranteed convergence", _Signal Processing_, 2022.  
 
+* **Meng Ding**, Xiao Fu, Ting-Zhu Huang, Jun Wang, Xi-Le Zhao, "Hyperspectral super-resolution via interpretable block-term tensor modeling", _IEEE Journal of Selected Topics in Signal Processing_, vol. 15, num. 3, pp. 641-656, 2020. 
+
 * **Meng Ding**, Ting-Zhu Huang, Xi-Le Zhao, Michael K. Ng, Tian-Hui Ma, "Tensor train rank minimization with nonlocal self-similarity for tensor completion", _Inverse Problems and Imaging_, 2020. [[PDF]](https://MengDing56.gitHub.io/papers/20Arxiv_Nonlocal_TT_TC.pdf) 
 
 * **Meng Ding**, Ting-Zhu Huang, Tian-Hui Ma, Xi-Le Zhao, Jing-Hua Yang, "Cauchy noise removal using group-based low-rank prior", _Applied Mathematics and Computation_, vol. 372, pp. 124971, 2020. [[PDF]](https://MengDing56.gitHub.io/papers/20AMC_Nonlocal_Cauchy.pdf) [[Code]](https://MengDing56.gitHub.io/codes/GBLR.rar)
